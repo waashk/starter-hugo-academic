@@ -1,7 +1,7 @@
 ---
 title: Washington Cunha
 role: PhD. Student
-avatar_filename: washington-cunha.jpeg
+avatar_filename: washington-cunha.png
 bio: My research interests include xxx, xxx and xxx.
 interests:
   - Machine Learning
