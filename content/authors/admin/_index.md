@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: washingtoncunha@dcc.ufmg.br
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com.br/citations?user=TiRmr48AAAAJ
