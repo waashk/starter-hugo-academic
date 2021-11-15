@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: washingtoncunha@dcc.ufmg.br
+    link: emailto:washingtoncunha@dcc.ufmg.br
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com.br/citations?user=TiRmr48AAAAJ
@@ -29,19 +29,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/washington-l-m-cunha/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Federal University of Minas Gerais
+    url: https://ppgcc.dcc.ufmg.br/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD Student in Computer Science
+      institution: Federal University of Minas Gerais
+      year: 2021
+    - course: MSc in Computer Science
+      institution: Federal University of Minas Gerais
+      year: 2019
+    - course: BSc in Computer Science
+      institution: Federal University of São João Del-Rei
+      year: 2017
 email: ""
 superuser: true
 highlight_name: true
