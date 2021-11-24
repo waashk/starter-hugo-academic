@@ -6,16 +6,32 @@ title: Python Libraries
 subtitle: null
 feature:
   - description: 90%
+    icon: sklearn
+    icon_pack: custom
+    name: skLearn
+  - description: 90%
     icon: numpy
     icon_pack: custom
     name: NumPy
-  - description: 100%
-    icon: chart-line
-    icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+  - description: 90%
+    icon: pandas
+    icon_pack: custom
+    name: Pandas
+  - description: 90%
+    icon: pytorch
+    icon_pack: custom
+    name: pyTorch
+  - description: 90%
+    icon: TensorFlow
+    icon_pack: custom
+    name: tensorflow-tf
+  - description: 90%
+    icon: scipy
+    icon_pack: custom
+    name: SciPy
+  - description: 90%
+    icon: matplotlib
+    icon_pack: custom
+    name: matplotlib
 widget_id: plibraries
 ---
