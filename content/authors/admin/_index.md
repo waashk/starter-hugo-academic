@@ -33,15 +33,15 @@ organizations:
     url: https://ppgcc.dcc.ufmg.br/
 education:
   courses:
-    - course: PhD Student in Computer Science
+    - course: PhD Student in Computer Science (Since 2019)
       institution: Federal University of Minas Gerais
-      year: 2021
+      year: ""
     - course: MSc in Computer Science
       institution: Federal University of Minas Gerais
       year: 2019
     - course: BSc in Computer Science
       institution: Federal University of São João Del-Rei
-      year: 2017
+      year: 2020
 email: ""
 superuser: true
 highlight_name: true
