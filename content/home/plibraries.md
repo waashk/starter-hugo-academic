@@ -1,7 +1,7 @@
 ---
 widget: featurette
 headless: true
-weight: 20
+weight: 35
 title: Python Libraries
 subtitle: null
 feature:
