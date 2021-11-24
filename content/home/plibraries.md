@@ -30,4 +30,6 @@ feature:
     icon_pack: custom
     name: SciPy
 widget_id: plibraries
+design:
+  columns: "6"
 ---
