@@ -33,10 +33,6 @@ doi: 10.1016/j.ipm.2020.102481
 featured: true
 tags: []
 projects: []
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
 date: 2021-11-16T12:10:07.091Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
