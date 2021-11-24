@@ -6,9 +6,9 @@ title: Python Libraries
 subtitle: null
 feature:
   - description: 90%
-    icon: python
-    icon_pack: fab
-    name: Python
+    icon: numpy
+    icon_pack: custom
+    name: NumPy
   - description: 100%
     icon: chart-line
     icon_pack: fas
