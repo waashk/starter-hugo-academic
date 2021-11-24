@@ -30,7 +30,7 @@ title: "On the cost-effectiveness of neural and non-neural approaches and
   representations for text classification:"
 subtitle: A comprehensive comparative study
 doi: 10.1016/j.ipm.2020.102481
-featured: false
+featured: true
 tags: []
 projects: []
 image:
