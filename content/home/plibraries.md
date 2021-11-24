@@ -31,5 +31,5 @@ feature:
     name: SciPy
 widget_id: plibraries
 design:
-  columns: "6"
+  columns: ""
 ---
