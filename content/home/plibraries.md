@@ -29,9 +29,5 @@ feature:
     icon: scipy
     icon_pack: custom
     name: SciPy
-  - description: 90%
-    icon: matplotlib
-    icon_pack: custom
-    name: matplotlib
 widget_id: plibraries
 ---
