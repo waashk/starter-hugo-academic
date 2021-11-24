@@ -48,4 +48,4 @@ highlight_name: true
 ---
 My name is Washington Cunha and I am a PhD Student (second year) in the Machine Learning and Databases Laboratory (LBD), advised by professor [Marcos Goncalves](https://scholar.google.com.br/citations?user=IStCGaoAAAAJ)  and professor [Leonardo Rocha](https://scholar.google.com.br/citations?user=P3m8CaIAAAAJ) at Federal University of Minas Gerais. I’m working on Deep Learning Text Classification (ATC) and Sentiment Analysis (SA) models. More specifically, my main research goal is to study and propose a new instance selection model in order to reduce the cost (time consumption) of deep learning ATC and SA models while keeping the effectiveness.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CVWashington.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cvwashington.pdf" "newtab" >}}resumé{{< /staticref >}}.
