@@ -22,9 +22,9 @@ feature:
     icon_pack: custom
     name: pyTorch
   - description: 90%
-    icon: TensorFlow
+    icon: tensorflow-tf
     icon_pack: custom
-    name: tensorflow-tf
+    name: TensorFlow
   - description: 90%
     icon: scipy
     icon_pack: custom
