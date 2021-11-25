@@ -30,15 +30,15 @@ feature:
   name: Statistics
 - description: 95%
   icon: cogs
-  icon_pack: fab
+  icon_pack: fas
   name: Feature Engineering
 - description: 90%
   icon: grin
   icon_pack: fas
   name: Sentiment Analysis
 - description: 90%
-  icon: folder-tree
-  icon_pack: fas
+  icon: folders
+  icon_pack: far
   name: Topic Modeling
 
 # Uncomment to use emoji icons.
