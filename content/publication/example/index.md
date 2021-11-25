@@ -3,7 +3,7 @@ abstract: ""
 slides: ""
 url_pdf: ""
 publication_types:
-  - "4"
+  - "1"
 authors:
   - Washington Cunha
   - Vítor Mangaravite
