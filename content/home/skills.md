@@ -37,7 +37,7 @@ feature:
   icon_pack: fas
   name: Sentiment Analysis
 - description: 90%
-  icon: boxes
+  icon: network-wired
   icon_pack: fas
   name: Topic Modeling
 
