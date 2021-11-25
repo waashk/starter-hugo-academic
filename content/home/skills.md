@@ -37,8 +37,8 @@ feature:
   icon_pack: fas
   name: Sentiment Analysis
 - description: 90%
-  icon: folders
-  icon_pack: far
+  icon: boxes
+  icon_pack: fas
   name: Topic Modeling
 
 # Uncomment to use emoji icons.
