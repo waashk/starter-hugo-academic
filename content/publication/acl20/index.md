@@ -5,31 +5,23 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - Washington Cunha
-  - Vitor Mangaravite
-  - Christian Gomes
-  - Sérgio Canuto
-  - Elaine Resende
   - Felipe Viegas
-  - Celso França
-  - Wellington Santos Martins
-  - Cecilia Nascimento
-  - Jussara Almeida
-  - Thierson Rosa
+  - Washington Cunha
+  - Christian Gomes
+  - Antonio Pereira
   - Leonardo Rocha
   - Marcos A. Goncalves
 author_notes: []
-publication: In *Information Processing & Management*
+publication: In *Annual Meeting of the Association for Computational Linguistics*
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *IP&M*
+publication_short: In *ACL'20*
 url_source: ""
 url_video: ""
-title: "On the cost-effectiveness of neural and non-neural approaches and
-  representations for text classification: A comprehensive comparative study"
+title: "CluHTM - Semantic Hierarchical Topic Modeling based on CluWords"
 subtitle: ""
-doi: 10.1016/j.ipm.2020.102481
+doi: 10.18653/v1/2020.acl-main.724
 featured: true
 tags: []
 projects: []

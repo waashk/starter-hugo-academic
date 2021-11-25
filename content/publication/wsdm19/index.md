@@ -5,31 +5,25 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - Washington Cunha
-  - Vitor Mangaravite
-  - Christian Gomes
-  - Sérgio Canuto
-  - Elaine Resende
   - Felipe Viegas
-  - Celso França
-  - Wellington Santos Martins
-  - Cecilia Nascimento
-  - Jussara Almeida
+  - Washington Cunha
+  - Sérgio Canuto
+  - Christian Gomes
+  - Sabir Ribas
   - Thierson Rosa
   - Leonardo Rocha
   - Marcos A. Goncalves
 author_notes: []
-publication: In *Information Processing & Management*
+publication: In *ACM International Conference on Web Search and Data Mining*
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *IP&M*
+publication_short: In *WSDM'19*
 url_source: ""
 url_video: ""
-title: "On the cost-effectiveness of neural and non-neural approaches and
-  representations for text classification: A comprehensive comparative study"
+title: "CluWords: Exploiting Semantic Word Clustering Representation for Enhanced Topic Modeling"
 subtitle: ""
-doi: 10.1016/j.ipm.2020.102481
+doi: 10.1145/3289600.3291032
 featured: true
 tags: []
 projects: []

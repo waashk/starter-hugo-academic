@@ -14,7 +14,7 @@ authors:
   - Elaine Resende
   - Thierson Rosa
   - Marcos Gonçalves
-  - Leonardo Rocha"
+  - Leonardo Rocha
 author_notes: []
 publication: In *Information Processing & Management 2020*
 summary: ""
@@ -25,7 +25,7 @@ url_source: ""
 url_video: ""
 title: "Extended pre-processing pipeline for text classification: On the role of meta-feature representations,sparsification and selective sampling"
 subtitle: ""
-doi: 10.1016/j.ipm.2020.102481
+doi: 10.1016/j.ipm.2020.102263
 featured: true
 tags: []
 projects: []

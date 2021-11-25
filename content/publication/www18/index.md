@@ -6,28 +6,22 @@ publication_types:
   - "2"
 authors:
   - Washington Cunha
-  - Vitor Mangaravite
-  - Christian Gomes
-  - Sérgio Canuto
-  - Elaine Resende
   - Felipe Viegas
-  - Celso França
-  - Wellington Santos Martins
-  - Cecilia Nascimento
-  - Jussara Almeida
-  - Thierson Rosa
-  - Leonardo Rocha
+  - Rafael Alencar
+  - Fernando Mourão
+  - Thiago Salles
+  - Darlinton Carvalho
   - Marcos A. Goncalves
+  - Leonardo Rocha
 author_notes: []
-publication: In *Information Processing & Management*
+publication: In *The International World Wide Web Conferences*
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *IP&M*
+publication_short: In *WWW'18*
 url_source: ""
 url_video: ""
-title: "On the cost-effectiveness of neural and non-neural approaches and
-  representations for text classification: A comprehensive comparative study"
+title: "A Feature-oriented Sentiment Rating for Mobile App Reviews"
 subtitle: ""
 doi: 10.1016/j.ipm.2020.102481
 featured: true
@@ -39,3 +33,5 @@ publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
+
+

@@ -5,31 +5,23 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
+  - Luiz Felipe Mendes
   - Washington Cunha
-  - Vitor Mangaravite
-  - Christian Gomes
-  - Sérgio Canuto
-  - Elaine Resende
-  - Felipe Viegas
-  - Celso França
-  - Wellington Santos Martins
-  - Cecilia Nascimento
-  - Jussara Almeida
-  - Thierson Rosa
+  - Thierson Couto-Rosa
+  - Wellington Martins
   - Leonardo Rocha
   - Marcos A. Goncalves
 author_notes: []
-publication: In *Information Processing & Management*
+publication: In *The Conference on Information and Knowledge Management*
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *IP&M*
+publication_short: In *CIKM'20*
 url_source: ""
 url_video: ""
-title: "On the cost-effectiveness of neural and non-neural approaches and
-  representations for text classification: A comprehensive comparative study"
+title: "Keep It Simple, Lazy - MetaLazy: A New MetaStrategy for Lazy Text Classification"
 subtitle: ""
-doi: 10.1016/j.ipm.2020.102481
+doi: 10.1145/3340531.3412180
 featured: true
 tags: []
 projects: []

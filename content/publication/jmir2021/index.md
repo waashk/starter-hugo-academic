@@ -24,7 +24,7 @@ publication: In *JMIR Medical Informatics*
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *IP&M*
+publication_short: In *JMIR'21*
 url_source: ""
 url_video: ""
 title: "Stroke outcome measurements from electronic medical records: Cross-sectional study on theeffectiveness of neural and nonneural classifiers"
