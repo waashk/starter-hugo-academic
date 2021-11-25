@@ -19,11 +19,11 @@ authors:
   - Leonardo Rocha
   - Marcos A. Goncalves
 author_notes: []
-publication: In *Information Processing & Management 2021*
+publication: In *Information Processing & Management*
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *IP&M 2021*
+publication_short: In *IP&M*
 url_source: ""
 url_video: ""
 title: "On the cost-effectiveness of neural and non-neural approaches and
