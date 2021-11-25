@@ -6,7 +6,7 @@ publication_types:
   - "2"
 authors:
   - Washington Cunha
-  - Vítor Mangaravite
+  - Vitor Mangaravite
   - Christian Gomes
   - Sérgio Canuto
   - Elaine Resende
@@ -14,10 +14,10 @@ authors:
   - Celso França
   - Wellington Santos Martins
   - Cecilia Nascimento
-  - Jussara M. Almeida
+  - Jussara Almeida
   - Thierson Rosa
   - Leonardo Rocha
-  - Marcos André Gonçalves
+  - Marcos A. Goncalves
 author_notes: []
 publication: In *Information Processing & Management*
 summary: ""
