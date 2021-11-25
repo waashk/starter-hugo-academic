@@ -27,8 +27,8 @@ publication_short: In *IP&M*
 url_source: ""
 url_video: ""
 title: "On the cost-effectiveness of neural and non-neural approaches and
-  representations for text classification:"
-subtitle: "A comprehensive comparative study"
+  representations for text classification: A comprehensive comparative study"
+subtitle: ""
 doi: 10.1016/j.ipm.2020.102481
 featured: true
 tags: []
