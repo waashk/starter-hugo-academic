@@ -23,11 +23,11 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Reviewer
-    company: Association for Computational Linguistics (*ACL*) 
+    company: Association for Computational Linguistics (**ACL**) 
     company_url: ''
-    company_logo: org-gc
+    company_logo: org-x
     #location: California
-    date_start: '2021-01-01'
+    date_start: '2021-10-01'
     date_end: ''
     #description: |2-
     #    Responsibilities include:
@@ -37,20 +37,35 @@ experience:
     #    * Deploying
 
   - title: Reviewer
-    company: The Conference on Empirical Methods in Natural Language Processing (*EMNLP*)
-    company_url: ''
-    company_logo: org-gc
-    date_start: '2021-01-01'
-    date_end: ''
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+    company: The Conference on Empirical Methods in Natural Language Processing (**EMNLP**)
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2021-06-01'
+    date_end: ''
+        
+  - title: Sub-Reviewer
+    company: The Conference on Information and Knowledge Management (**CIKM**)
+    company_url: ''
+    company_logo: org-x
+    date_start: '2021-06-01'
+    date_end: ''
+    
+  - title: Sub-Reviewer
+    company: The European Conference on Information Retrieval (**ECIR**)
+    company_url: ''
+    company_logo: org-x
+    date_start: '2021-11-01'
+    date_end: ''
+    
+
+  #- title: Professor of Semiconductor Physics
+  #  company: University X
+  #  company_url: ''
+  #  company_logo: org-x
+  #  location: California
+  #  date_start: '2016-01-01'
+  #  date_end: '2020-12-31'
+  #  description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
