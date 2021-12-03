@@ -41,7 +41,7 @@ education:
       year: 2019
     - course: BSc in Computer Science
       institution: Federal University of São João Del-Rei
-      year: 2020
+      year: 2017
 email: ""
 superuser: true
 highlight_name: true
