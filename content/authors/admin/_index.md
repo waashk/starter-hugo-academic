@@ -1,9 +1,10 @@
 ---
 title: Washington Cunha
-role: PhD. Student
+role: Assistant Professor | AI Researcher
 avatar_filename: avatar.png
 bio: My research interests include xxx, xxx and xxx.
 interests:
+  - Large Language Models
   - Machine Learning
   - Artificial Intelligence
   - Information Retrieval
@@ -33,9 +34,9 @@ organizations:
     url: https://ppgcc.dcc.ufmg.br/
 education:
   courses:
-    - course: PhD Student in Computer Science (Since 2019)
+    - course: Ph.D. in Computer Science
       institution: Federal University of Minas Gerais
-      year: ""
+      year: 2024
     - course: MSc in Computer Science
       institution: Federal University of Minas Gerais
       year: 2019
@@ -46,6 +47,11 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-My name is Washington Cunha and I am a PhD Student (second year) in the Machine Learning and Databases Laboratory (LBD), advised by professor [Marcos Goncalves](https://scholar.google.com.br/citations?user=IStCGaoAAAAJ)  and professor [Leonardo Rocha](https://scholar.google.com.br/citations?user=P3m8CaIAAAAJ) at Federal University of Minas Gerais. I’m working on Deep Learning Text Classification (ATC) and Sentiment Analysis (SA) models. More specifically, my main research goal is to study and propose a new instance selection model in order to reduce the cost (time consumption) of deep learning ATC and SA models while keeping the effectiveness.
+
+Main Research: Information Retrieval, Search and Ranking, Artificial Intelligence, and Machine Learning, focusing on Recommender Systems, Text Classification, and Feature Engineering.
+
+My name is Washington Cunha. I am an Information Retrieval (IR) Researcher with experience in large language models (LLMs) and generative AI, specializing in transformer-based architectures. I have over eight years of experience in AI, proven through my work in academic research and industry. I recently spent a sabbatical as a visiting researcher at the CNR-ISTI in Italy under the supervision of Fabrizio Sebastiani.
+
+Currently, I’m focusing on reducing the training cost of LLMs, specifically generative models, through Instance Selection (IS). In sum, the IS goal is to reduce the training set size while maintaining the effectiveness of the trained models and reducing the training cost.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cvwashington.pdf" "newtab" >}}resumé{{< /staticref >}}.
