@@ -12,6 +12,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: emailto:washingtoncunha@dcc.ufmg.br
+  - icon: envelope
+    icon_pack: fas
+    link: emailto:waasluiz@gmail.com
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com.br/citations?user=TiRmr48AAAAJ
@@ -21,11 +24,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/waashk
-  - display:
-      header: false
-    link: https://gitlab.com/waashk
-    icon_pack: fas
-    icon: gitlab
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/washington-l-m-cunha/
@@ -53,5 +51,7 @@ Main Research: Information Retrieval, Search and Ranking, Artificial Intelligenc
 My name is Washington Cunha. I am an Information Retrieval (IR) Researcher with experience in large language models (LLMs) and generative AI, specializing in transformer-based architectures. I have over eight years of experience in AI, proven through my work in academic research and industry. I recently spent a sabbatical as a visiting researcher at the CNR-ISTI in Italy under the supervision of Fabrizio Sebastiani.
 
 Currently, I’m focusing on reducing the training cost of LLMs, specifically generative models, through Instance Selection (IS). In sum, the IS goal is to reduce the training set size while maintaining the effectiveness of the trained models and reducing the training cost.
+
+Feel free to contact me any time!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cvwashington.pdf" "newtab" >}}resumé{{< /staticref >}}.
