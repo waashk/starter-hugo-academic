@@ -33,13 +33,14 @@ feature:
   icon_pack: fas
   name: Feature Engineering
 - description: 90%
+  icon: network-wired
+  icon_pack: fas
+  name: Large Language Models
+- description: 90%
   icon: grin
   icon_pack: fas
   name: Sentiment Analysis
-- description: 90%
-  icon: network-wired
-  icon_pack: fas
-  name: Topic Modeling
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
