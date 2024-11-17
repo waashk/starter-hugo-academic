@@ -156,3 +156,6 @@ cms:
 icon:
   pack:
     ai: true
+backend:
+    name: git-gateway
+    branch: main
