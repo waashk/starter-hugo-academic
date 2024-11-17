@@ -153,6 +153,9 @@ marketing:
 cms:
   branch: main
   local_backend: false
+  backend:
+    name: git-gateway
+    branch: main
 icon:
   pack:
     ai: true
